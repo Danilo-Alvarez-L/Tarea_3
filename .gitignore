@@ -1,0 +1,8 @@
+# Ejecutable
+graphquest
+
+# Archivos objeto
+*.o
+
+# Archivos de backup
+*~
